@@ -1,0 +1,2 @@
+*/2 7-23 * * *  user    PYTHONIOENCODING=utf-8 /home/user/youtube-to-drive.py '*****************' >> /home/user/youtube-to-drive.log 2> /home/user/youtube-to-drive.err
+

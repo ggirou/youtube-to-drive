@@ -1,0 +1,5 @@
+credentials.json
+crontab
+settings.yaml
+*.err
+*.log
